@@ -1,0 +1,13 @@
+
+.taille
+{
+   width: 50px; height: 20px;
+   background-color:rgb(243, 232, 232) ;
+}
+body
+{
+  margin: 20px;
+  padding: 0;
+  background-color: greenyellow ;
+  text-decoration: none;
+}
